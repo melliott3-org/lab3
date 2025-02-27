@@ -196,12 +196,7 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
-}
-   
-.permanent-marker-regular {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 400;
-  font-style: normal;
+  
 }
 
 label {
@@ -211,6 +206,10 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 
-
+body {
+font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* ===== STATE STYLES ======= */
