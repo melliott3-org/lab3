@@ -10,7 +10,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Forms
    ========================================================================== */
-
 /**
  * 1. Change the font styles in all browsers (opinionated).
  * 2. Remove the margin in Firefox and Safari.
@@ -207,15 +206,12 @@ label {
 
 
 body {
-   	font-family: "Permanent Marker", cursive;
-  	font-weight: 400;
- 	font-style: normal;
-	font-family: "Poppins", sans-serif;
-  	font-weight: 400;
-  	font-style: normal;
-	font-family: "Bree Serif", serif;
-  	font-weight: 400;
-  	font-style: normal;
+  background-color: #a7a7a7;
+  font-family: "Permanent Marker", "Poppins", cursive;  text-align: center;
+  color: #4e4d4d;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 1rem;
 }
-
 /* ===== STATE STYLES ======= */
