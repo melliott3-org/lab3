@@ -203,6 +203,18 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+h1 {
+    font-size: 2em;
+    font-family: "Permanent Marker", "Poppins", cursive;  text-align: center;
+    color: #000000;
+    padding: 2em;
+    letter-spacing: 10px;
+    margin-bottom: 2em;
+    display: flex;
+    border: dashed #5d5a5a;
+}
+
+
 
 
 body {
