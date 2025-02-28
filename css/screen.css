@@ -207,9 +207,15 @@ label {
 
 
 body {
-font-family: "Permanent Marker", cursive;
-  font-weight: 400;
-  font-style: normal;
+   font-family: "Permanent Marker", cursive;
+  	font-weight: 400;
+ 	font-style: normal;
+	font-family: "Poppins", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	font-family: "Bree Serif", serif;
+  	font-weight: 400;
+  	font-style: normal;
 }
 
 /* ===== STATE STYLES ======= */
