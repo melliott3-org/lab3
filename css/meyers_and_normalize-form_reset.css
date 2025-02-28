@@ -24,10 +24,16 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-body:hover {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 400;
-  font-style: normal;
+body {
+	font-family: "Permanent Marker", cursive;
+  	font-weight: 400;
+ 	font-style: normal;
+	font-family: "Poppins", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	font-family: "Bree Serif", serif;
+  	font-weight: 400;
+  	font-style: normal;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -35,26 +41,33 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, main, menu, nav, section {
 	display: block;
 }
+
 html {
 	line-height: 1;
 }
+
 body {
   line-height: inherit;
 }
+
 ol, ul {
 	list-style: none;
 }
+
 blockquote, q {
 	quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	
 }
 
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
