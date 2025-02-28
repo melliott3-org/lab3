@@ -214,8 +214,15 @@ h1 {
     border: dashed #5d5a5a;
 }
 
-
-
+p {
+    font-size: 1em;
+    font-family: "Permanent Marker", "Poppins", cursive;  text-align: center;
+    color: #7e7777;
+    padding: 1em;
+    margin: 2em;
+    border: dotted #767373;
+    border-radius: 1em;
+}
 
 body {
   background-color: #a7a7a7;
