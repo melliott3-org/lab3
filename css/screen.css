@@ -227,10 +227,22 @@ p {
 body {
   background-color: #a7a7a7;
   font-family: "Permanent Marker", "Poppins", cursive;  text-align: center;
-  color: #4e4d4d;
+  color: #b0abab;
   display: flex;
   justify-content: center;
   min-height: 100vh;
   padding: 1rem;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #3d3838;
+  padding: 2rem;
+  border-radius: 3em;
+  box-shadow: 0 8px 12px rgba(21, 21, 21, 0.4);
+  width: 100%;
+}
+
 /* ===== STATE STYLES ======= */
